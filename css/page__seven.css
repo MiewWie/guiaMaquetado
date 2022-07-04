@@ -81,7 +81,7 @@ div.content__container-images
 }
 .content__item-images
 {
-    width: 20rem;
+    width: 100%;
     height: 20rem;
     background-color: #BC9D00;
     margin: 0;
