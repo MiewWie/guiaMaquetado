@@ -1,9 +1,3 @@
-div.row
-{
-    margin: 0;
-    padding: 0;
-}
-
 /* CONTAINER CONTAINER CONTAINER CONTAINER */
 
 .container__elements
@@ -29,11 +23,11 @@ div.row
 }
 .container__images
 {
-    margin: 1rem 0;
+    margin: 1rem 1rem 1rem 0;
 }
 .item__images
 {
-    width: 12rem;
+    width: 100%;
     height: 12rem;
     background-color: #505050;
 }
